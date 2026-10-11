@@ -1,2 +1,138 @@
 # t1launcher
-Jetour T1 IDM
+No debe ser descargado. no es apto para ningún vehículo. Es solo con fines educativos y aprendizaje de programación. Su distribución no esta aprobada y nunca lo estará, NO LO DESCARGUE. NO LO INSTALE.
+
+# AVISO LEGAL, CONDICIONES DE USO Y EXENCION DE RESPONSABILIDAD
+
+**Ultima actualización:** 11/10/2026
+
+Este Aviso Legal regula la descarga, instalación y utilización de **T1launcher**, incluida la aplicación incorporada denominada **MainthorCar**, en adelante denominadas conjuntamente el "Software".
+
+Al descargar, instalar, ejecutar, copiar o utilizar el Software, la persona usuaria declara haber leído y comprendido este Aviso Legal y acepta sus condiciones. Si no las acepta, no debe descargar, instalar ni utilizar el Software.
+
+## 1. Naturaleza y finalidad del Software
+
+T1launcher y MainthorCar se distribuyen gratuitamente y han sido desarrolladas como herramientas de visualización y acceso de solo lectura.
+
+El Software no esta destinado a controlar, comandar, modificar, programar, reparar, diagnosticar de manera profesional ni alterar el funcionamiento de ningún vehículo o de sus sistemas electrónicos, mecánicos, eléctricos o de seguridad.
+
+La información mostrada por el Software puede ser incompleta, inexacta, estar desactualizada, sufrir demoras o ser interpretada incorrectamente. No debe considerarse diagnostico mecánico, recomendación técnica, certificación de seguridad ni sustituto de una inspección realizada por personal calificado.
+
+## 2. Seguridad vial
+
+El Software no debe operarse, configurarse ni consultarse de manera que distraiga al conductor o interfiera con la conducción segura.
+
+La persona conductora es responsable de cumplir las normas de transito, mantener la atención sobre la via y detener el vehículo en un lugar permitido y seguro antes de interactuar con el dispositivo.
+
+El Software no debe utilizarse para adoptar decisiones inmediatas relacionadas con la conducción, la seguridad, el mantenimiento o el estado mecánico del vehículo. Ante una advertencia, anomalía o duda, se debe detener el vehículo cuando resulte seguro y consultar al fabricante, al servicio técnico oficial o a un profesional calificado.
+
+## 3. Software proporcionado "tal cual"
+
+En la máxima medida permitida por la legislación aplicable, el Software se proporciona **"tal cual" y "según disponibilidad"**, sin garantías ni promesas expresas o implícitas.
+
+No se garantiza, entre otras cosas:
+
+- que el Software sea adecuado para una finalidad determinada;
+- que sea compatible con un vehículo, equipo, versión de Android o sistema especifico;
+- que funcione sin interrupciones, errores, fallos o vulnerabilidades;
+- que la información mostrada sea completa, precisa, actualizada o confiable;
+- que el Software permanezca disponible o reciba mantenimiento, soporte o actualizaciones;
+- que detecte defectos, riesgos, fallas o condiciones peligrosas del vehículo.
+
+La gratuidad del Software no constituye una garantía de funcionamiento, seguridad, compatibilidad, continuidad ni idoneidad.
+
+## 4. Uso bajo responsabilidad de la persona usuaria
+
+La descarga, instalación y utilización del Software se realizan por cuenta y riesgo de la persona usuaria.
+
+Antes de instalarlo, la persona usuaria debe verificar su compatibilidad, conservar copias de seguridad y tomar las precauciones necesarias para proteger el dispositivo, sus datos y el vehículo.
+
+La persona usuaria es exclusivamente responsable de:
+
+- determinar si el uso del Software es legal y seguro en su jurisdicción;
+- utilizar un dispositivo y un vehículo compatibles;
+- comprobar la información mediante fuentes oficiales o profesionales;
+- impedir que el Software distraiga al conductor;
+- mantener el vehículo de acuerdo con las instrucciones de su fabricante;
+- cualquier modificación, redistribución, integración o uso distinto de la finalidad indicada.
+
+## 5. Limitación de responsabilidad
+
+En la máxima medida permitida por la legislación aplicable, el desarrollador, titular, mantenedor y las personas colaboradoras del Software no serán responsables por perdidas, lesiones, accidentes, multas, infracciones, daños materiales o personales, perdida o corrupción de datos, interrupción de actividad, lucro cesante ni daños directos, indirectos, incidentales, especiales, consecuentes o punitivos derivados de:
+
+- la descarga, instalación, imposibilidad de uso o utilización del Software;
+- errores, omisiones, demoras o interpretaciones de la información mostrada;
+- incompatibilidades con dispositivos, vehículos, accesorios o aplicaciones;
+- decisiones tomadas sobre la base de la información presentada;
+- distracciones durante la conducción;
+- modificaciones o redistribuciones realizadas por terceros;
+- fallos de Android, del vehículo, de MainthorCar, de bibliotecas, componentes o servicios de terceros;
+- cualquier uso contrario a este Aviso Legal o a la legislación aplicable.
+
+Nada de este documento excluye o limita responsabilidades que legalmente no puedan excluirse o limitarse, incluyendo los derechos irrenunciables que correspondan a consumidores y usuarios.
+
+## 6. MainthorCar y componentes de terceros
+
+T1launcher incluye o distribuye MainthorCar. Salvo que se indique expresamente lo contrario, la inclusión de MainthorCar no implica afiliación, patrocinio, autorización, certificación ni garantía por parte de fabricantes de vehículos, dispositivos, sistemas operativos u otros terceros.
+
+MainthorCar y los demas componentes de terceros pueden estar sujetos a sus propios términos, licencias, avisos de privacidad y limitaciones de responsabilidad. Dichas condiciones deben conservarse y respetarse.
+
+El desarrollador de T1launcher no controla ni garantiza el funcionamiento, la seguridad, la disponibilidad, la legalidad o las futuras modificaciones de componentes desarrollados por terceros.
+
+## 7. Marcas y ausencia de afiliación
+
+Los nombres comerciales, marcas, logotipos y denominaciones de productos pertenecen a sus respectivos titulares.
+
+Toda referencia a vehículos, fabricantes, dispositivos o productos se realiza exclusivamente con fines descriptivos o de compatibilidad. No implica afiliación, aprobación, patrocinio, representación ni relación comercial, salvo manifestación expresa y escrita del titular correspondiente.
+
+## 8. Privacidad y datos
+
+El Software no debe describirse como carente de recolección de datos salvo que ello haya sido verificado técnicamente, incluyendo permisos, registros, conexiones de red, servicios externos y componentes incorporados.
+
+Si el Software procesa datos personales, identificadores, ubicación, telemetría, información del vehículo o registros del dispositivo, dicho tratamiento deberá informarse en una Política de Privacidad separada y cumplir la legislación aplicable.
+
+La persona usuaria no debe ingresar, almacenar ni transmitir mediante el Software información sensible o confidencial que no sea necesaria para su funcionamiento.
+
+## 9. Usos prohibidos
+
+No se autoriza el uso del Software:
+
+- mientras su operación pueda distraer a quien conduce;
+- para eludir medidas de seguridad, controles o restricciones legales;
+- para realizar actividades ilícitas o vulnerar derechos de terceros;
+- como única fuente para evaluar la seguridad o el estado mecánico de un vehículo;
+- en sistemas cuya falla pueda causar muerte, lesiones, accidentes o daños graves;
+- mediante versiones alteradas presentadas falsamente como oficiales.
+
+## 10. Modificaciones y versiones no oficiales
+
+Toda persona que modifique o redistribuya el Software es responsable de sus cambios y debe indicar claramente que se trata de una versión modificada o no oficial.
+
+El desarrollador original no responde por versiones modificadas, copias obtenidas de fuentes no oficiales, redistribuciones, configuraciones de terceros ni combinaciones con otros programas o dispositivos.
+
+## 11. Disponibilidad, cambios y discontinuación
+
+El Software puede modificarse, suspenderse o discontinuarse en cualquier momento, sin obligación de mantenimiento, soporte, corrección, actualización o aviso previo, en la medida permitida por la legislación aplicable.
+
+La publicación de una actualización no implica que versiones anteriores sean seguras, compatibles o adecuadas.
+
+## 12. Legislación aplicable
+
+Este Aviso Legal se interpretara conforme a las leyes de la Republica Argentina, sin perjuicio de las normas imperativas, los derechos irrenunciables y las reglas de jurisdicción que resulten aplicables en el lugar de residencia de la persona usuaria.
+
+Si alguna disposición fuera declarada invalida, ilegal o inaplicable, se interpretara o reducirá en la mínima medida necesaria y las restantes disposiciones conservaran su validez, siempre que ello sea legalmente posible.
+
+## 13. Acuerdo completo y prevalencia de la ley
+
+Este Aviso Legal constituye las condiciones aplicables al uso del Software, junto con la licencia, la Política de Privacidad y los avisos de terceros que correspondan.
+
+En caso de conflicto entre este documento y una norma imperativa, prevalecerá la norma imperativa. Nada de lo aquí dispuesto debe interpretarse como renuncia a derechos que no puedan ser legalmente renunciados.
+
+## 14. Contacto
+
+Para informar errores, problemas de seguridad o cuestiones legales:
+
+  
+**Correo:** mehaudy3d@gmail.com
+
+Si quiere instalarlo por su cuenta, primero consulte por correo si es apto para su vehículo y aguarde la respuesta confirmando su instalación. De lo contrario no lo haga. Gracias 
+
