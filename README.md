@@ -1,5 +1,5 @@
 # t1launcher
-No debe ser descargado. no es apto para ningún vehículo. Es solo con fines educativos y aprendizaje de programación. Su distribución no esta aprobada y nunca lo estará, NO LO DESCARGUE. NO LO INSTALE.
+No debe ser descargado. no es apto para ningún vehículo. Es solo con fines educativos y aprendizaje de programación. Su distribución no esta aprobada y nunca lo estará, NO LO DESCARGUE. NO INSTALE.
 
 # AVISO LEGAL, CONDICIONES DE USO Y EXENCION DE RESPONSABILIDAD
 
