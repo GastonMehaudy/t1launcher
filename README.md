@@ -10,7 +10,7 @@ Si descargas y usas T1launcher & MainthorCar entiendes los riesgos y asumes que 
 
 # Conectar T1Puente al auto:
   Conectar su dispositivo móvil al **Bluetooth** de su auto, luego abra el pad numérico del teléfono en la pantalla de su auto y disque:
-  # *#20241130#*
+  # * #20241130# *  en palabras: asterisco + numeral + 20241130 + numeral + asterisco 
   Saldrá una pantalla de configuración oculta ( CONTIENTE MODO ESCRITURA!!! )
   Por el lado izquierdo se puede deslizar tranquilamente y vera muchos botones en CHINO, el botón que estamos buscando tiene estos simbolos
   加密设置 se encuentra arriba de CPAA (CarPlay & Android Auto)
