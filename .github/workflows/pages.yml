@@ -1,0 +1,56 @@
+name: Deploy T1 Puente Web
+
+# Publica la app en GitHub Pages y copia el ÚLTIMO T1Launcher (Release) solo.
+on:
+  push:
+    branches: [main]
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Traer el código
+        uses: actions/checkout@v4
+
+      - name: Copiar el último T1Launcher (Release)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p web/apks
+          rm -rf /tmp/rel && mkdir -p /tmp/rel
+          gh release download --repo "$GITHUB_REPOSITORY" --pattern "*.apk" --dir /tmp/rel || true
+          if ls /tmp/rel/*.apk >/dev/null 2>&1; then
+            cp "$(ls -S /tmp/rel/*.apk | head -1)" web/apks/t1launcher.apk
+            echo "APK copiado:"; ls -la web/apks
+          else
+            echo "Todavía no hay APK en Releases."
+          fi
+
+      - name: Preparar Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Subir el sitio
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v4

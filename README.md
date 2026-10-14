@@ -131,7 +131,7 @@ En caso de conflicto entre este documento y una norma imperativa, prevalecerá l
 
 Para informar errores, problemas de seguridad o cuestiones legales:
 
-  
+**instalador** https://gastonmehaudy.github.io/t1launcher/  
 **Correo:** mehaudy3d@gmail.com
 
 Si quiere instalarlo por su cuenta, primero consulte por correo si es apto para su vehículo y aguarde la respuesta confirmando su instalación. De lo contrario no lo haga. Gracias 
