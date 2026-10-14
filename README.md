@@ -1,5 +1,48 @@
-# t1launcher
-No debe ser descargado. no es apto para ningún vehículo. Es solo con fines educativos y aprendizaje de programación. Su distribución no esta aprobada y nunca lo estará, NO LO DESCARGUE. NO INSTALE.
+# T1Launcher
+Si descargas y usas T1launcher & MainthorCar entiendes los riesgos y asumes que leiste todo el LEAME.
+
+# Instalador :  https://mainthorcar.github.io/t1launcher/ 
+
+# Materiales
+  Cable OTG (USB-A a USB-A) cable de datos, no todos los usb funcionan.
+  Se requiere una computadora portátil (con sistema operativo Windows o macOS).
+  Requisitos del navegador tiene que ser Google Chrome o Edge
+
+# Conectar T1Puente al auto:
+  Conectar su dispositivo móvil al **Bluetooth** de su auto, luego abra el pad numérico del teléfono en la pantalla de su auto y disque:
+  # *#20241130#*
+  Saldrá una pantalla de configuración oculta ( CONTIENTE MODO ESCRITURA!!! )
+  Por el lado izquierdo se puede deslizar tranquilamente y vera muchos botones en CHINO, el botón que estamos buscando tiene estos simbolos
+  加密设置 se encuentra arriba de CPAA (CarPlay & Android Auto)
+  Ahora presiona 加密设置 y a la derecha veras un único botón # 进入卸密且
+  Te va a solicitar clave de acceso, la clave de acceso cambia cada 24hs y tiene un solo modo de escritura:
+  # AAAAMMDD  ejemplo si hoy es 14 de octubre del 2026 
+    la clave es : 20261014
+   Seleccionas DONE - y aprietas en este caso el botón que se encuentra del lado izquierdo del panel flotante para ingresar al segundo menu oculto.
+   Acá no vas a seleccionar ningún botón del selector izquierdo, por defecto aparece ADB y un botón que es ese mismo el que estas buscando.
+   Listo ya puedes apretar el * y salir a la pantalla principal.
+
+ # INSTALADOR T1Puente - Abrir omputadora portátil (con sistema operativo Windows o macOS) - Google Chrome o Edge
+   Entras en este enlace: https://mainthorcar.github.io/t1launcher/
+   Conecta el cable USB al puerto superior del lado del conductor y luego al dispositivo portatil.
+   En la navegador de T1puente vas a ver un botón "Conectar al auto" pulsas y te sale un cuadro de dialogo con un dispositivo reconocido.
+   Marcas tu dispositivo y presionas "conectar" - en la pantalla del auto te va a salir un cartel que tienes que tildar "no volver a preguntar" y      luego "permitir".
+   Listo ya estas enlazado con tu Jetour T1.
+   # Acá vuelve a preguntarte si entiendes lo que estas por hacer.
+   Primero vamos a desactivar la pantalla transparente que no te permite instalar nada acá asumes que estas en un auto y ojo con lo que instalas       sobre todo si tienes niños pequeños y la quieren usar como Tablet para jugar o ver videos de paginas posiblemente peligrosas. NO te voy a mentir    el auto tiene mucha seguridad pero los virus son virus y pueden arruinar tu unidad.
+   Modulo Ajustes del auto avanzado tocar el botón "Capa 3D: desactivar" esta puesta la opción para activarla de nuevo cuando no quieras que           instalen mas apk. Listo ahora vas a instalar T1launcher
+   Modulo de "APK principales" esta por defecto las dos apk que necesitas de momento.
+   1) instalar T1launcher este esta conectado a la ultima versión así que espera que descargue la apk y luego lee y acepta los términos y                 condiciones.
+   2) Una vez instalado (podrás observar en el panel de "Resultados" si fue un exito la instalcion) vas a ir al panel de "permisos" que se                encuentra por defecto dos botones con todos los permisos necesarios automatico. 
+      Toca ahora solo el de "T1launcher" tiene que aparecer en tu pantalla del auto.
+   3) Repite los pasos de T1launcher solo que ahora instalas Aurora Store y le das los permisos y abres la aplicación y si por algún motivo no te         abrió para registrarte en Google vas a deslizarte a la derecha y te va a mostrar que tenes todos los permisos dados correctamente y desde el        panel de T1Puente va a ir al modulo "Acciones rápidas" y seleccionar "⏎ Aceptar botón oculto". Te tiene que salir ahora la opción de               registrarte en Google.
+   4) Registras con tu cuenta de Gmail, luego de abrir (aun no descargas nada) vas a ir al engranje que se encuentra arriba a la derecha y en su menu seleccionas "gestor de arranque" vas a tener que ser muy rapido ahora y seleccionar "OnePlus8Pro" y te tiene que salir una solapa de abajo blanca con el boton reiniciar - presionas "reiniciar" y te vas a loguear de nuevo con tu cuenta de gmail.
+   5) Luego vas al buscador y empieza con YouTube de Google y le das a instalar, ahora te va a salir un cuadro de dialogo que vas a aceptar y después te va a instalar los servicios de Microg.
+   6) Aun no termina je... ahora sales de aurora y le vas a dar permisos a MicroG con T1puente o puedes hacerlos desde el engranaje en la pantalla del auto como si fuera una Tablet. APLICACIONES - MOSTRAR APLICACIONES - MICROG - PERMISOS - dar todos los permisos.
+   7) En t1puente es mas facil. modulo de permisos "Ver apps del dispositivo" selñeccionas microg y luego boton "dar"
+   8) Entras a MicroG y tenes que loguear tu cuenta de Gmail y luego si podes ir a aurora y descargar YouTube y demás aplicaciones que usted sea consiente!!!!!!
+
+   
 
 # AVISO LEGAL, CONDICIONES DE USO Y EXENCION DE RESPONSABILIDAD
 
@@ -131,7 +174,7 @@ En caso de conflicto entre este documento y una norma imperativa, prevalecerá l
 
 Para informar errores, problemas de seguridad o cuestiones legales:
 
-**instalador** https://gastonmehaudy.github.io/t1launcher/  
+**instalador** https://mainthorcar.github.io/t1launcher/ 
 **Correo:** mehaudy3d@gmail.com
 
 Si quiere instalarlo por su cuenta, primero consulte por correo si es apto para su vehículo y aguarde la respuesta confirmando su instalación. De lo contrario no lo haga. Gracias 
