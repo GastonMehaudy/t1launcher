@@ -5163,7 +5163,7 @@
       return;
     }
     if (!Manager) {
-      log(stamp() + "Este navegador no soporta WebUSB, o no est\xE1s en https/localhost. Us\xE1 Chrome o Edge.", "wn");
+      log(stamp() + "En iPhone/iPad no se puede conectar por USB: Apple no lo permite en ningun navegador del iPhone. Abri T1 Puente en una PC o Mac con Chrome o Edge.", "wn");
       return;
     }
     try {
@@ -5462,7 +5462,7 @@
     $("accOculto").addEventListener("click", aceptarOculto);
     $("aj3Don").addEventListener("click", () => capa3D(true));
     $("aj3Doff").addEventListener("click", () => capa3D(false));
-    if (!Manager) log(stamp() + "Aviso: este navegador no expone WebUSB. Abr\xED en Chrome o Edge, en https o localhost.", "wn");
+    if (!Manager) log(stamp() + "Aviso: en iPhone no se puede abrir el USB (lo bloquea Apple). Esto funciona en una PC o Mac con Chrome o Edge.", "wn");
     else {
       log("# T1 Puente Web v1.0 \u2014 listo.", "mut");
       log("# Enchuf\xE1 el auto por USB y toc\xE1 \xABConectar\xBB.", "mut");
